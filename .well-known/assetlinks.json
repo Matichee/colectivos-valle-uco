@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.matichee.twa",
+        "sha256_cert_fingerprints": ["A1:5E:20:30:DE:26:B7:2B:2E:BC:76:E1:BE:2C:B4:DB:9C:66:52:5F:5E:98:CF:1A:7E:35:68:58:55:15:C7:EB"]
+      }
+    }]
